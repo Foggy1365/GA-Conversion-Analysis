@@ -74,4 +74,4 @@ Across 61,952 sessions in January 2017, is there a statistically significant dif
 
 Built as a portfolio project demonstrating end-to-end analyst workflow: data extraction (SQL/cloud), statistical analysis (hypothesis testing with appropriate effect sizes and confidence intervals), and stakeholder communication (executive dashboard).
 
-**Author:** Jonathan Fagoaga | [LinkedIn](https://www.linkedin.com/in/jonathan-fagoaga/)
+**Author:** Jonathan Fagoaga | [Portfolio](https://foggy1365.github.io/) | [LinkedIn](https://www.linkedin.com/in/jonathan-fagoaga) | [Email](mailto:jafagoaga1365@gmail.com)
