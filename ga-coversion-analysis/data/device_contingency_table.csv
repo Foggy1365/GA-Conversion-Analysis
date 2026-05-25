@@ -1,0 +1,3 @@
+device,total_sessions,converted_sessions,non_converted_sessions,conversion_rate_pct
+desktop,43615,614,43001,1.408
+mobile,18337,74,18263,0.404

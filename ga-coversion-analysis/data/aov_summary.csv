@@ -1,0 +1,3 @@
+device,converting_sessions,mean_aov,median_aov,std_dev,min_order,max_order
+Desktop,614,148.54,51,273.16,1.99,2485.97
+Mobile,74,83.84,22.44,213.65,1.99,1137.35

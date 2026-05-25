@@ -1,0 +1,3 @@
+device,sessions,conversions,non_conversions,conversion_rate,ci_lower,ci_upper
+Desktop,43615,614,43001,0.01408,0.01298,0.01518
+Mobile,18337,74,18263,0.00404,0.00312,0.00495
