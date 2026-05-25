@@ -2,7 +2,7 @@
 
 Statistical analysis of conversion behavior across device types using Google Analytics data on BigQuery, with hypothesis testing in Excel and an executive dashboard in Power BI.
 
-![Dashboard Preview](docs/dashboard_preview.png)
+![Dashboard Preview]([docs/dashboard_preview.png](https://github.com/Foggy1365/GA-Conversion-Analysis/blob/main/ga-coversion-analysis/docs/dashboard_preview.pdf))
 
 ## TL;DR
 
