@@ -2,7 +2,7 @@
 
 Statistical analysis of conversion behavior across device types using Google Analytics data on BigQuery, with hypothesis testing in Excel and an executive dashboard in Power BI.
 
-![Dashboard Preview]([docs/dashboard_preview.pdf])
+![Dashboard Preview](docs/dashboard_preview.pdf)
 
 ## TL;DR
 
